@@ -1,6 +1,5 @@
 ~/.ipynb_checkpoints/
 ~/.env
-data/
 .ipynb_checkpoints
 .bin
 *.db
